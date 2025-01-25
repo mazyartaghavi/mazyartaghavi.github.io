@@ -17,7 +17,7 @@ Thesis title: Autonomous Medical Care for Space Travelers Using Deep Reinforceme
 Bachelor of Science-English
 Payame Noor University (PNU) Feb 2021
 
-RESEARCH INTERESTS
+## RESEARCH INTERESTS
 Optimization: Optimal Control, Mathematical Modeling, Quantum Optimization
 Machine Learning: Statistical ML, Reinforcement Learning, Deep Learning
 AI and Robotics: Robot Learning, Multi-agent System, Distributed AI.
