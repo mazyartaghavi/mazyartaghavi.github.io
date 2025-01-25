@@ -1,4 +1,4 @@
-EDUCATION
+## EDUCATION
 Two Masters’ degree in: Mathematics and Engineering
 1. Iran University of Science and Technology (IUST) July 2025
 M.Sc. in Applied Mathematics (Optimization)
@@ -22,7 +22,7 @@ Optimization: Optimal Control, Mathematical Modeling, Quantum Optimization
 Machine Learning: Statistical ML, Reinforcement Learning, Deep Learning
 AI and Robotics: Robot Learning, Multi-agent System, Distributed AI.
 
-SKILLS
+## SKILLS
 Mathematical Mathematical foundations of AI/ML, Statistics, OR
 Programming Python, MATLAB, Mathematica
 Optimization GAMS, Gurobi, CPLEX, SciPy, CVXPY, and Pyomo
@@ -30,19 +30,19 @@ Machine Learning PyTorch, TensorFlow, keras
 Robotics Open CV, Open AI Gym, Brax, MuJoCo, SLAM, ROS
 Research Report LaTeX
 
-WORK EXPERIENCE
+## WORK EXPERIENCE
 Research internship (certified) 2021 - 2023
 Supervisor: Prof. Nezam Mahdavi Amiri - Sharif University of Technology
 Organization: Iranian Operations Research Society (IORS)
 Field: Machine Learning and Optimization
 
-TEACHING EXPERIENCE
+## TEACHING EXPERIENCE
 Teaching assistant (certified) 2022 - 2023
 Supervisor: Prof. Saeed Ayat
 Organization: Payame Noor University
 Courses: AI/ML, Python, LaTeX, research methods, English language
 
-TEAM WORKING EXPERIENCE
+## TEAM WORKING EXPERIENCE
 Research Project: AI for people 2022 - 2023
 Supervisor:Prof. Saeed Ayat
 Organization: PNU Research Center
@@ -54,17 +54,18 @@ Supervisor:Prof. Morteza Garshasbi
 Field: Optimal Control and Calculus of Variation
 My role: Developing Python code.
 
-ONLINE COURSES
+## ONLINE COURSES
 Advanced Reinforcement Learning Udemy & Coursera
 Mathematics for Machine Learning and Data Science Coursera
 Probabilistic Graphical Models Coursera
 Linear Algebra Imperial College London
 Quantum Computing Coursera
-STANDARDIZED TESTS
+
+## STANDARDIZED TESTS
 TOEFL ibt 2024 93
 GRE general June 2025 pending
 
-PUBLICATIONS
+## PUBLICATIONS
 1- (preprint) Quantum Optimization in Multi-agent Reinforcement Learning within Continuous Action
 Space
 2- Autonomous Medical Care for Space Travelers Using Deep Learning and Reinforcement Learning
